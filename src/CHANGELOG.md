@@ -1,5 +1,11 @@
 # viem
 
+## 2.49.0
+
+### Minor Changes
+
+- [#4584](https://github.com/wevm/viem/pull/4584) [`4cd686d4acf2c0f14955509a91a3c7ee6d0257f9`](https://github.com/wevm/viem/commit/4cd686d4acf2c0f14955509a91a3c7ee6d0257f9) Thanks [@tmm](https://github.com/tmm)! - Added AbortSignal support to request options and `call` action.
+
 ## 2.48.11
 
 ### Patch Changes
